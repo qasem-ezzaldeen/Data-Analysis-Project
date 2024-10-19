@@ -28,16 +28,6 @@ Employee attrition, satisfaction, and performance are critical factors in mainta
 - **Features**: 35 columns
 - **Format**: CSV file
 
-### Key Features
-- Attrition status
-- Job satisfaction levels
-- Years at company
-- Overtime status
-- Work-life balance ratings
-- Performance ratings
-- Monthly income
-- Employee demographics
-
 ## Methodology
 
 ### 1. Data Preprocessing
