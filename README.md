@@ -85,8 +85,8 @@ Implemented several machine learning models:
 ## Tools Used
 - Python (Pandas, NumPy)
 - Visualization: Matplotlib, Seaborn, Plotly
-- SQL
 - Machine Learning: Scikit-learn, Imbalanced-learn
+- SQL
 - Dashboard: Tableau
 
 ## Challenges and Limitations
